@@ -18,7 +18,8 @@ You can play tricks with terminal using `python` program. You'll get 2 codes one
 What the program does? 
 
 - You've to choose the color
-- You've to select: alphabet | Number | Symbol style 
+- You've to select: alphabet | Number | Symbol style
+- This project is tested with BrowserStack.
 - This is what qxresearch(alphabetic) looks like: 
                                           h
                                           h
